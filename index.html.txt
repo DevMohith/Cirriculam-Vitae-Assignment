@@ -1,0 +1,173 @@
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"
+          content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, 
+                   initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+ 
+<body>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src="DP.jpeg"
+                     alt="gfg-logo"
+                     style="width:100px;
+                            height:100px;
+                            border-radius: 50%;">
+            </div>
+            <div class="Contact">
+                <h2>Contact</h2>
+                <p>
+                      <b>Website:</b> <a style="text-decoration: none;" href="https://mohithtummalamt.wixsite.com/mtummala">My Portofolio 🔗 </a>
+                  </p>
+                <p>
+                      <b>Mobile no :</b>9110770057
+                  </p>
+                  <p>
+                    <b>Linked In:</b> <a style="text-decoration: none;" href="https://www.linkedin.com/in/mohithtummala/"> Click Here 🔗 </a>
+                  </p>
+            </div>
+            <div class="Skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>
+                          <b>Programming Languages :</b>Python, Java, C++
+                      </li>
+                    <li>
+                          <b>Frontend : </b>HTML5, CSS3,
+                          JavaScript, React
+                      </li>
+                    <li>
+                          <b>Backend : </b>Node.js, Express.js, MySQL, MongoDB </li>
+                </ul>
+            </div>
+            <div class="Languages">
+                <h2>Languages</h2>
+                <ul>
+                    <li>Telugu - Native</li>
+                    <li>Hindi - C1</li>
+                    <li>English - C1</li>
+                    <li>German - A2</li>
+                </ul>
+            </div>
+            <div class="Hobbies">
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Internet Surfing</li>
+                    <li>Coding</li>
+                    <li>Playing Guitar</li>
+                    <li>Playing Cricket</li>
+                </ul>
+            </div>
+        </div>
+        <div class="right">
+            <div class="name">
+                <h1>Mohith Tummala</h1>
+            </div>
+            <div class="title">
+                <p>Web Developer</p>
+            </div>
+            <div class="Summary">
+                <h2>Summary</h2> <hr> <br>
+                <p>
+                    Aspiring for the position of Full Stack Web Developer, where i can use my extensive knowledge of programming languages and frameworks to develop efficient web applications.
+                </p>
+            </div>
+            <div class="Experience">
+                <h2>Experience</h2> <hr> <br>
+                <h3> A.N.D Intern - Full-Stack Web Developer Intern</h3>
+                <small>(Dec 2023 to Present)</small>
+                <ul>
+                    <li> Actively engaged in web design and development.</li>
+                    <li> I Work on weekly assigned Tasks and Assignments</li>
+                    <li> Being a scrum team member, I actively participate in sprint meetings</li>
+                </ul> <br>
+                <h3>Digital Lync - Web Developer Apprentice</h3>
+                <small>(Jun 2023 to Dec 2023)</small>
+                <ul>
+                    <li>As a Web Developer Intern i have Created and maintained responsive web applications using HTML, CSS,
+                        and JavaScript, resulting in improved user experience and increased website traffic.</li>
+                    <li>Developed RESTful APIs to facilitate seamless communication between front-end and back-end systems,
+                        enhancing data retrieval and manipulation efficiency. Used React hooks to look website more productive</li>
+                    <li>Developed Static and Dynamic Web Pages for Clients in a given Project Deadlines and Uploaded it to a
+                        Repositories in GitHub for Team Work and Code Reviews. Followed Up with All Team Members along with
+                        Manager on Priorities.</li>
+                </ul> <br>
+                <h3>Diebold Nixdorf - Technical Support Engineer</h3>
+                <small>(Mar 2022 - Apr 2023)</small>
+                <ul>
+                    <li>As a Technical and Network Support Trainee I worked with different types of Network and Technical
+                        issues. Performed Different Levels Troubleshooting and fixed uncountable DN products. with the
+                        help of Tools and checks Network issues Ping, Telnet and Trace Routing. Maintained and Cleared
+                        Moderate Traffic Issues through tunnels.</li>
+                    <li>Used Developer tools to Check the Technical Advancements and Deployments for smoot and seamless
+                        Deliveries. Worked on client’s issues using Virtual Machine and Remote sharing Desktops.</li>
+                    <li>Managed my entire team for different client Projects and worked on client requirements without any
+                        Errors.</li>
+                </ul>
+            </div>
+            <div class="Education">
+                <h2>Education</h2> <hr> <br>
+                <table border="1pc">
+                    <thead>
+                        <th>University/college/School</th>
+                        <th>Passing year  </th>
+                        <th>percentage/cgpa</th>
+                    </thead>
+                    <tr>
+                        <td>Osmania University</td>
+                        <td>2021</td>
+                        <td>80%</td>
+                    </tr>
+                    <tr>
+                        <td>Sri Chaitanya Educational Institutions</td>
+                        <td>2017</td>
+                        <td>89%</td>
+                    </tr>
+                    <tr>
+                        <td>Sri Chaitanya Techno Schools</td>
+                        <td>2015</td>
+                        <td>92%</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="projects">
+
+                <ul>
+                        <h2>Projects</h2> <hr> <br>
+                        <li>
+                        <h3>Project1 - A Tribute Page</h3>
+                        <p>
+                              I am the Whole and sole Developer for this Project.
+                              <a href="https://github.com/DevMohith/A-Tribute-Page"> Click for Code</a>
+                          </p> &nbsp;
+                          <small>Used Stacks: HTML, CSS, JS</small>
+                          </li><br>
+                          
+                            <li>
+                            <h3>Project2 - E-commerce Web Application</h3>
+                         <p> I am the Developer among the Developers Team. Developed an E-commerce food shopping and ordering app for Food Business client. <a href="https://www.swagruhafoods.net/"> Website</a></p> &nbsp;
+                         <small>Used stacks: HTML, CSS, JS, React, Bootstrap, Node, Mongodb </small>
+                         </li> <br>
+                    <li>
+                        <h3>Project3 - Tracking Web Application </h3>
+                        <p>I am the Developer among the Developers Team. Developed an Transport Tracking app for client's customers use. <a href="https://eshipz.com/">Website</a></p>&nbsp;
+                        <small>Used stacks: HTML, CSS, JS, React, Bootstrap, Node, Mongodb </small>
+                    </li><br>
+                </ul>
+            </div>
+            <div class="Declaration">
+                <h2>Declaration</h2> <hr> <br>
+                <p>I solemnly declare the information mentioned herein is true and correct to the best of my beliefs.</p>
+
+            </div>
+        </div>
+    </div>
+</body>
+ 
+</html>
